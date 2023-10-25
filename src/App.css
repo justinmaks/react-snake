@@ -1,0 +1,13 @@
+.App {
+  display: flex;
+  flex-direction: column; /* Stack children vertically */
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #2E2E2E;
+}
+
+.App h1, .App p, .App h2 {
+  color: white;
+  text-align: center; /* Center text horizontally */
+}

@@ -1,0 +1,35 @@
+# dependencies
+/node_modules
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+*.log
+npm-debug.log*
+
+# IDE - Visual Studio Code
+.vscode/
+
+# IDE - JetBrains (WebStorm, IntelliJ, etc.)
+.idea/
+
+# OS-specific
+*.pem
+*.cert
+*.key
+*.log
+*.swp
+*.swo
+*.swn
+*.bak
+*.orig
